@@ -4,13 +4,19 @@
 
 ####Jack_Chen.rb:
 >>Factorial
+
 >>Longest word count (return the number of words longer than 7 characters)
+
 >>Least common multiple
+
 >>Largest odd factors
+
 >>Fibonacci
+
 >>Hipsterfy
->>Pair Product Given an array of numbers and a target product, return whether any pair of
-elements in the array multiplied together equals that product.
+
+>>Pair Product Given an array of numbers and a target product, return whether any pair of elements in the array multiplied together equals that product.
+
 >>Repeated Characters
 
 
