@@ -9,8 +9,8 @@
 >>Largest odd factors
 >>Fibonacci
 >>Hipsterfy
->>Pair Product -> Given an array of numbers and a target product, return whether any pair of
-# elements in the array multiplied together equals that product.
+>>Pair Product Given an array of numbers and a target product, return whether any pair of
+elements in the array multiplied together equals that product.
 >>Repeated Characters
 
 
