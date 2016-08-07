@@ -3,7 +3,7 @@
 ###Listed below is a detailed documentation of what methods/algorithms you will find in which file. 
 
 ####Jack_Chen.rb:
->Factorial
+>Factorials
 
 >Longest word count (return the number of words longer than 7 characters)
 
